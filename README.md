@@ -19,7 +19,7 @@
 <a href="https://ashens.me/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="website" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/AshenSachinthana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://fb.com/AshenSachinthana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://gitlab.com/AshenSachinthana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" alt="gitlab" height="30" width="40" /></a>
+<a href="https://gitlab.com/AshenSachinthana" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gitlab.svg" alt="gitlab" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack
